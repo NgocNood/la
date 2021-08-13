@@ -1,0 +1,74 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100067709417504%22%3A%22d5rT6yOt%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "sb",
+        "value": "F5kLYbMHeG1OZKER-9ImsFDE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "datr",
+        "value": "BwkNYXl6Ek7BGDTntE5Zmnxh",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "wd",
+        "value": "1322x689",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100067709417504",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "xs",
+        "value": "1%3AZu_GO5_Ee3y7JQ%3A2%3A1628432130%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "fr",
+        "value": "1uX3AQOuOONmLiYdc.AWXJZUI0mZc5WBGS4lRfPfD-9QM.BhDo_f.Ux.AAA.0.0.BhD-cB.AWXF2ngmcrY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    },
+    {
+        "key": "spin",
+        "value": "r.1004222448_b.trunk_t.1628432136_s.1_v.2_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-08-08T14:16:13.498Z",
+        "lastAccessed": "2021-08-08T14:16:13.498Z"
+    }
+]
